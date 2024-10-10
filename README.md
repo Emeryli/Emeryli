@@ -1,5 +1,5 @@
 
-![5422723](https://github.com/user-attachments/assets/4264da89-9edd-4499-baee-10e49483a45e)
+![Dino Dinosaur Sticker - Dino Dinosaur Dinos - Discover   Share GIFs](https://github.com/user-attachments/assets/7848ea1b-49e4-4ae6-969e-fd5835321d76)
 
 <!--
 **Emeryli/Emeryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
