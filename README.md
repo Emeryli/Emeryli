@@ -1,7 +1,7 @@
 
-<div style="text-align: center">
+
 <img src="https://github.com/user-attachments/assets/7848ea1b-49e4-4ae6-969e-fd5835321d76" height="300" align="center"/>
-</div>
+
 <!--
 **Emeryli/Emeryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
