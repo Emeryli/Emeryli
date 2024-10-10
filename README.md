@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![5422723](https://github.com/user-attachments/assets/4264da89-9edd-4499-baee-10e49483a45e)
 
 <!--
 **Emeryli/Emeryli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
